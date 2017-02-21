@@ -7,7 +7,17 @@ namespace FieldBuddy.Tests
     public class EmployeeFilterTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void NoEmployeesReturned()
+        {
+        }
+
+        [TestMethod]
+        public void SingleEmployeeReturned()
+        {
+        }
+
+        [TestMethod]
+        public void MultipleEmployeesReturned()
         {
         }
     }
