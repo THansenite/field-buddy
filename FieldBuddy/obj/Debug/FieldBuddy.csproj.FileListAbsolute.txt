@@ -1,1 +1,14 @@
 C:\Projects\field-buddy\FieldBuddy\bin\Debug\FieldBuddy.exe.config
+C:\Projects\field-buddy\FieldBuddy\bin\Debug\FieldBuddy.exe
+C:\Projects\field-buddy\FieldBuddy\bin\Debug\FieldBuddy.pdb
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy.csprojResolveAssemblyReference.cache
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\MainWindow.g.cs
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\App.g.cs
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy_MarkupCompile.cache
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy_MarkupCompile.lref
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\MainWindow.baml
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy.g.resources
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy.Properties.Resources.resources
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy.csproj.GenerateResource.Cache
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy.exe
+C:\Projects\field-buddy\FieldBuddy\obj\Debug\FieldBuddy.pdb
